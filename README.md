@@ -1,2 +1,3 @@
-# Encap
-2019 Summer software developer internship project. Working with Sagaci Systems as an Application Development Intern. My project was to develop and build a full-fledged progressive web-app. The software used are Node JavaScript, React and React Static. For front end designing and architecture using CSS "SASS" is used. The back end data management is done with GraphQL "GraphCMS" is used for backed side data input. Also API is used for the faceting real-time data from the storage
+# React-Static - Basic Template
+
+To use this template, run `react-static create` and use the `basic` template.
